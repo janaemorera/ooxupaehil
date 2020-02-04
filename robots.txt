@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zahvuixood.fanxiaojuan.top/sitemap.xml
